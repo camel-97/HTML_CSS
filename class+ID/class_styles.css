@@ -1,0 +1,33 @@
+.dark {
+    background-color: black;
+    color: blanchedalmond;}
+
+.light {
+    background-color: blanchedalmond;
+    color: black;}
+
+.italic {
+    border-radius: 30px;
+    font-style: italic;}
+
+
+.group_1, .group_2 {
+    font-weight: lighter;
+    color: rgb(78, 2, 149);}
+.group_1 { 
+    background-color: blanchedalmond;}
+.group_2 {
+    background-color: azure;}
+
+
+p {
+    padding: 20px;
+    font-weight: bold;
+    font-family:  Helvetica;
+    text-align: center;}
+
+#blue-paragraph {
+    color: aqua;
+    border-radius: 30px;
+    font-size: 2ch;
+    background-color: black;}
