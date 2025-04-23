@@ -2,15 +2,14 @@
 .background { 
     text-align: center;
     padding: 50px;
-    margin: 50px;
+    margin: 60px;
     background-color:rgb(253, 207, 207);  
     border-radius: 10px;
     border: 20px solid;
     border-color: rgb(182, 255, 255);
+    display: inline-block;
 }
 
 .text{
     color:brown;
-   margin: 40px
-
 }
