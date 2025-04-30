@@ -104,3 +104,32 @@ button {
     align-items: center;
     max-width: 200px
 }
+
+
+.quote-container {
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(249, 191, 170);
+    align-items: center;
+}
+
+.quote {
+    max-width: 600px;
+}
+
+.quote-text, .quote-author{
+    font-style: italic;
+    color: rgb(39, 51, 109);
+}
+
+.quote-text {
+    font-size: 20px;
+    font-family: helvetica;
+    font-weight: 500;  
+}
+
+.quote-author {
+    font-size: 16px;
+    text-align: end;
+}
