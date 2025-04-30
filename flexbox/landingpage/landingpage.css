@@ -80,11 +80,12 @@ button {
 .section-1-container {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 30px;
+    margin-bottom: 50px;
 }
 
 .info img{
-   max-width: 150px;
+   max-width: 100px;
    padding: 10px;
    margin: 5px;
    justify-content: center;
@@ -95,7 +96,7 @@ button {
 .info-text{
     text-align: center;
     align-items: center;
-    gap: 20px;
+    font-size: 12px;
 }
 
 .info {
